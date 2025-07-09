@@ -1,0 +1,4 @@
+# This file tests csv parsing when some rows are inconsistent
+1,2
+2,3,4
+3,4

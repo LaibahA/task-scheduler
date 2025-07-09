@@ -1,0 +1,5 @@
+# This file tests csv parsing when some rows are empty
+1,2
+2,3
+
+3,4

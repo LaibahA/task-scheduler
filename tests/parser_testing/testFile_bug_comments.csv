@@ -1,0 +1,6 @@
+# This file tests csv parsing when some rows are comments
+1,2
+2,3
+# Comment
+3,4
+# Comment
